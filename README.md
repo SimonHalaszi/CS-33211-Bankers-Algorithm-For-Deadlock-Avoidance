@@ -4,6 +4,8 @@ This project implements the Banker's Algorithm on a system of five processes wit
 
 The main file, BankersAlgo.c, is commented in more depth about the implementation of this concept.
 
+Also supplied are four text files with sample system inputs. Two safe examples and two unsafe examples.
+
 ## To Compile and Run
 
 Run these commands in your Linux terminal.
