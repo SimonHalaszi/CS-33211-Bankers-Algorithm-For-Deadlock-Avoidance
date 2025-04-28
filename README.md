@@ -43,7 +43,8 @@ As shown in the examples, if an input system is found to be in a safe state, thi
 
 ![image](https://github.com/user-attachments/assets/36308485-15d5-45a8-ab43-4ad449e13e02)
 
-![image](https://github.com/user-attachments/assets/9d1a5fb6-ebd8-4036-96d9-63ede293a640)
+![image](https://github.com/user-attachments/assets/c6a2bc99-471b-47ab-93df-b4eeba20faed)
+
 
 
 
