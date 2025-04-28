@@ -1,0 +1,13 @@
+Available Resources A B C
+
+Allocation for P0 A B C
+Allocation for P1 A B C
+Allocation for P2 A B C
+Allocation for P3 A B C
+Allocation for P4 A B C
+
+Max for P0 A B C
+Max for P1 A B C
+Max for P2 A B C
+Max for P3 A B C
+Max for P4 A B C
